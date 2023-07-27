@@ -1,4 +1,6 @@
 # Experiment--05-Implementation-of-flipflops-using-verilog
+### NAME:P.CHANDRU
+### reg no:23007250
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
@@ -101,18 +103,13 @@ From the above characteristic table, we can directly write the next state equati
 Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
-### Procedure
-/* write all the steps invloved */
-
-
-
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
 
+![f1](https://github.com/chandru174642/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841798/fce5c260-d019-4b1e-b29d-eb7da953fa9b)
+
+![jk](https://github.com/chandru174642/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841798/73fdfd70-1133-46ea-93a8-bfe09e7c2001)
 
 
 
@@ -120,6 +117,8 @@ RegisterNumber:
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+![f1di](https://github.com/chandru174642/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841798/f4e0b437-e720-4faf-a89f-a6430a1cb3df)
+![jkcir](https://github.com/chandru174642/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841798/e96b1865-6b10-4b74-81d4-f3163e1c9c0e)
 
 
 
@@ -128,8 +127,10 @@ RegisterNumber:
 
 
 
-### TIMING DIGRAMS FOR FLIP FLOPS 
+### output waveform:
 
+![WhatsApp Image 2023-07-27 at 9 23 17 AM (1)](https://github.com/chandru174642/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841798/d59c354e-a614-4bcc-aea7-41937b775cea)
+![wave jkk](https://github.com/chandru174642/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841798/1616f33a-31ff-4862-b239-d9e7e14a8df5)
 
 
 
